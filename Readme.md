@@ -1,5 +1,7 @@
 # G3MB3L INT3RN3T
 
+Dear friends, Welcome to my github profile!!
+
 ## Bot Projects :coffee:
 
 > Join with me on [Discord Public Channel](https://discord.gg/7a5UD3mKD4)
@@ -10,3 +12,23 @@
 |----------|--------|
 | Spoon Radio | Done |
 | Hakuna | In Progress |
+| Instagram | Pending |
+| Hago | Pending |
+| Tiktok | Pending |
+
+---
+
+### Spoon Radio
+
+| Task | Status |
+|----------|--------|
+| Monitoring Server | Done  |
+| Bot Server | Done  |
+
+### Hakuna
+
+| Task | Status |
+|----------|--------|
+| Monitoring Server | In Progress  |
+| Bot Server | In Progress  |
+| Chrome Extension | In Progress |
