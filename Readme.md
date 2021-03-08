@@ -12,9 +12,10 @@ Dear friends, Welcome to my github profile!!
 |----------|--------|
 | Spoon Radio | Done |
 | Hakuna | In Progress |
-| Instagram | Pending |
+| Instagram | In Progress |
 | Hago | Pending |
 | Tiktok | Pending |
+| Eear Pro | Pending |
 
 ---
 
